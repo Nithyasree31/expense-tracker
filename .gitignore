@@ -1,0 +1,12 @@
+
+# Secrets and local settings
+.env
+.env.*
+
+# Dependencies
+node_modules/
+vendor/
+
+# User-uploaded files
+uploads/*
+!uploads/.gitkeep
